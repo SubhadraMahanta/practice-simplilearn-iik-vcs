@@ -1,2 +1,2 @@
 # practice-simplilearn-iik-vcs
-practice repo iitk vcs batch 
+practice repo iitk vcs practice class
